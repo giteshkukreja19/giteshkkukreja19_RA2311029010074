@@ -5,11 +5,11 @@ export const CONFIG = {
 
   // Auth credentials (Gitesh Kukreja)
   AUTH: {
-    EMAIL: 'gk7145@srmist.edu.in',
+    EMAIL: 'gk7145+test8@srmist.edu.in',
     NAME: 'Gitesh Kukreja',
-    ROLL_NO: 'RA2311029010074',
-    MOBILE: '8602872714',
-    GITHUB_USERNAME: 'giteshkkukreja19',
+    ROLL_NO: 'ra231102901074',
+    MOBILE: '8602872715',
+    GITHUB_USERNAME: 'giteshkukreja19@',
     ACCESS_CODE: 'QkbpxH',
   },
 
