@@ -7,7 +7,7 @@ export const CONFIG = {
   AUTH: {
     EMAIL: 'gk7145+test@srmist.edu.in',
     NAME: 'Gitesh Kukreja',
-    ROLL_NO: 'RA2311029010074',
+    ROLL_NO: 'ra2311029010074',
     MOBILE: '8602872717',
     GITHUB_USERNAME: 'giteshkkukreja193',
     ACCESS_CODE: 'QkbpxH',
