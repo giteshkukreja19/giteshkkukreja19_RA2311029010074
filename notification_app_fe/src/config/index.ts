@@ -1,7 +1,7 @@
 // ─── Application Configuration ────────────────────────────────────────────────
 
 export const CONFIG = {
-  BASE_URL: 'http://20.207.122.201/evaluation-service',
+  BASE_URL: '/evaluation-service',
 
   // Auth credentials (Gitesh Kukreja)
   AUTH: {
