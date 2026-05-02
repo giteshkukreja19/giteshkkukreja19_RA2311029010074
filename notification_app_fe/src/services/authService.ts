@@ -129,6 +129,8 @@ export async function ensureAuthenticated(): Promise<string> {
       return await fetchAuthToken(storedID, storedSecret);
     } catch {
       logger.warn('auth', 'Stored credentials failed — attempting re-registration');
+      localStorage.removeItem(CONFIG.STORAGE_KEYS.CLIENT_ID);
+      localStorage.removeItem(CONFIG.STORAGE_KEYS.CLIENT_SECRET);
     }
   }
 
