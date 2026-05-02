@@ -25,7 +25,7 @@ export const CONFIG = {
   // Pagination defaults
   DEFAULT_PAGE: 1,
   DEFAULT_LIMIT: 10,
-  PRIORITY_LIMIT: 50, // fetch enough to get top 10 priority
+  PRIORITY_LIMIT: 10, // fetch enough to get top 10 priority
 
   // Priority weights for notification types
   PRIORITY_WEIGHTS: {
